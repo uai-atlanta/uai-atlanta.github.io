@@ -19,6 +19,7 @@ en: &DEFAULT_EN
   services:
     title: "Services"
     #text: "Lorem ipsum"
+    text: ""
     section: services
     list:
       - title: "E-Commerce"
@@ -34,6 +35,7 @@ en: &DEFAULT_EN
   portfolio:
     title: "Portfolio"
     #text: "Lorem ipsum dolor sit amet consectetur."
+    text: ""
     section: portfolio
     closebutton: "Close Project"
 

@@ -11,9 +11,12 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to UAI Warehouse!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    #title: Welcome to UAI Warehouse!
+    title: 欢迎来到 UAI 仓储服务!
+    #text: It's Nice To Meet You
+    text: 您的满意是我们最大的动力！
+    #button: Tell Me More
+    button: 了解更多
     buttonlink: "#services"
 
   services:

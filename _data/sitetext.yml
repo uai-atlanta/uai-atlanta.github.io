@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Services"
+    title: "服务类型" #"Services"
     #text: "Lorem ipsum"
     text: ""
     section: services
